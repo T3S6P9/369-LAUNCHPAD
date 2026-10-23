@@ -47,7 +47,11 @@
 
 ## 🎬 Démo
 
-*Vidéo à venir.*
+<p align="center">
+  <a href="video/369_LP_ACID_v36.39.mp4"><img src="captures/video_v36.39.jpg" alt="369 LAUNCHPAD : tablette, téléphones et 369 ACID en live" width="40%"></a>
+  <br>
+  <a href="video/369_LP_ACID_v36.39.mp4"><b>▶ Regarder la vidéo / Watch the video</b></a> · tablette + 963 XY + 369 ACID, en live (v36.39)
+</p>
 
 ---
 

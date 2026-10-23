@@ -14,6 +14,7 @@
 ## Octobre 2026
 
 ### v36.39 · 23 octobre · ACID au geste en 3 dimensions, la voix protégée
+- 🎬 **[La vidéo](video/369_LP_ACID_v36.39.mp4)** : la tablette, les téléphones et 369 ACID, en live.
 - **Axe Z dans ACID** : en mode **GESTE**, un bouton **Z** remplace le fader ENV. Z allumé : on **tourne le téléphone** comme une poignée et l'enveloppe de la 303 suit (le « wouaou »). Z éteint : la valeur reste **verrouillée**, on peut danser et se retourner sans rien dérégler.
 - **Pencher, en beaucoup plus précis** : le filtre (avant / arrière) et la résonance (gauche / droite) se lisent maintenant sur le gyroscope. Le filtre répond **environ 4 fois plus vite**, et rien ne bouge tout seul quand on danse ou qu'on secoue.
 - **Plus de larsen par le mauvais micro** : si Android donne le micro du téléphone au lieu du micro branché dans le jack, la voix **ne part plus vers la sono**. Le vu-mètre continue de montrer ce que le micro du téléphone entend, et une alerte l'explique. Un bouton permet de l'utiliser quand même.
