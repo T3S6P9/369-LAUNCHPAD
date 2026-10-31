@@ -13,6 +13,40 @@
 
 ## Octobre 2026
 
+### v36.45 · 30 octobre · DRUMS : 8 pistes de samples, triolets et découpes en 6
+- La 808 synthétique laisse la place à **DRUMS** : **8 pistes de samples**, 16 pas chacune. Au départ, les 5 premières pistes contiennent un **KIT 808** : les mêmes sons qu'avant, rendus en samples, au même volume.
+- **CHARGER** : plusieurs fichiers ou un **dossier entier** d'un coup. Les samples remplissent les pistes dans l'ordre de leurs noms (« 2 » passe avant « 10 »).
+- **Un effet par piste** : on touche le nom de la piste, on choisit **DIST, COMP, REVERB, DELAY, F.BAS, F.HAUT** ou **CRUSH**, avec son **dosage**, plus un **PITCH** de ±12 demi-tons. À dosage 0, le son reste intact.
+- **Découpes** : une case de DRUMS joue 1, 2, **3 (triolet)**, 4 ou **6** coups. Le bouton **÷** découpe aussi les notes du 303 et de la basse. Les roulements tombent pile sur la grille.
+- **+ RÉGLAGES 303** : accent, slide, **SUB**, **DETUNE**, LFO du filtre calé sur le tempo, filtre **LP / BP / HP**, octave.
+- **+ RÉGLAGES BASSE** : boum, attaque, glide, coupure, résonance, octave.
+- 📷 [Les panneaux de réglages](captures/acid_reglages_v36.45.jpg)
+
+### v36.44 · 26 octobre · premier DRUM RACK
+- **8 lignes de samples** sous la 808, 16 pas chacune, avec les samples des pads ou des fichiers audio.
+- Chaque ligne coupe sa note d'avant, sans clic. Au rechargement, une ligne **retrouve son sample par son nom**.
+
+### v36.43 · 26 octobre · notes longues, motifs, gamme
+- **Notes longues** pour le 303 et la basse : une note tient de 1 à 16 pas.
+- **4 motifs (A, B, C, D)** par instrument. En PLAY, le changement tombe pile à la mesure.
+- **GAMME** : HASARD et **MUTATION** restent dans la gamme choisie. Chaque ligne peut avoir sa propre longueur de motif.
+- Panneau **LIVE** à gros boutons : **FILL** sur le dernier temps, et **INTENSITÉ**, qui ouvre le filtre et monte l'enveloppe, la saturation et le delay ensemble.
+- Le piano tient la note tant que le doigt reste posé (ou toujours, avec **HOLD**).
+
+### v36.42 · 24 octobre · plusieurs doigts, DUO, nouvelles formes d'onde
+- **2, 3 ou 4 doigts à la fois** sur la tablette, le téléphone et ACID : on tient un fader et on tape des pas en même temps.
+- **DUO** sur la tablette : la basse à gauche, le 303 à droite, la boîte à rythmes dessous.
+- **Nouvelles formes d'onde** : **PULSE** pour le 303 ; **SIN+OCT** (elle s'entend même sur un petit haut-parleur) et **CARRÉ ROND** pour la basse. Même volume perçu, mesuré en LUFS.
+- Styles de beat **AMEN** (le break des Winstons) et **DRILL PSY**.
+- Un effet sous chaque voix de la 808 : distorsion, compression, reverb, delay.
+- **LFO JUNGLE** sur la basse : le filtre ondule sur les temps (de 1/4 à 1/16T), calé sur la grille. En JAM, tous les appareils ondulent ensemble.
+- Corrigés : un petit clic avant chaque note de basse, et des premières notes trop fortes au démarrage.
+
+### v36.40 → v36.41 · 24 octobre · la BASSE 808 et le SIDECHAIN
+- **BASSE 808** : 16 pas, un sinus saturé avec un petit « boum », GLIDE, DECAY, DRIVE, et un piano de 2 octaves. Sur le téléphone, la page BASSE passe à l'horizontale.
+- **STYLES** HOUSE, TECHNO, TRAP, BREAK : un nouveau beat à chaque appui.
+- **SIDECHAIN** sur le 303 et la basse : 4 formes, de 1/8 à 2 mesures, calé sur la grille. En JAM, tout le monde pompe ensemble.
+
 ### v36.39 · 23 octobre · ACID au geste en 3 dimensions, la voix protégée
 - 🎬 **[La vidéo](video/369_LP_ACID_v36.39.mp4)** : la tablette, les téléphones et 369 ACID, en live.
 - **Axe Z dans ACID** : en mode **GESTE**, un bouton **Z** remplace le fader ENV. Z allumé : on **tourne le téléphone** comme une poignée et l'enveloppe de la 303 suit (le « wouaou »). Z éteint : la valeur reste **verrouillée**, on peut danser et se retourner sans rien dérégler.
@@ -95,6 +129,11 @@
 
 ## English (short)
 
+- **v36.45**: the synthesized 808 makes way for **DRUMS**, an **8-track sample drum machine** (an 808 kit rendered as samples is loaded by default, or load your own files or a whole folder). One effect per track (distortion, compression, reverb, delay, low-pass, high-pass, bitcrusher) with its own amount and pitch. Steps and notes can be split into 2, 3 (**triplets**), 4 or 6 hits. New **303** settings (sub, detune, synced filter LFO, LP / BP / HP filter, octave) and **bass** settings (boom, attack, glide, cutoff, resonance, octave).
+- **v36.44**: a first 8-line sample drum rack under the 808.
+- **v36.43**: long notes, 4 patterns per instrument (switching exactly on the bar), scale-locked random and mutation, a LIVE panel with FILL and INTENSITY.
+- **v36.42**: **multi-touch** (2 to 4 fingers at once), DUO layout (bass left, 303 right, drums below), new waveforms (PULSE, SIN+OCT, ROUNDED SQUARE) matched in loudness, AMEN and DRILL PSY beats, per-voice drum effects, a tempo-synced **jungle LFO** on the bass.
+- **v36.40 → v36.41**: an **808-style bass** (16 steps, glide, drive, 2-octave piano), one-tap beat styles, a tempo-locked **sidechain** that pumps in sync across all JAM devices.
 - **v36.39**: **369 ACID in 3D**: tilt for filter and resonance (gyroscope-based, about 4x faster), twist the phone for the envelope (**Z axis**, lockable), shake for a synth hit. The voice stream is blocked if Android silently swaps the jack mic for the phone's own mic (a button lets you force it anyway). Fullscreen exit button: one swipe to switch apps. The MONO output is gone: always stereo.
 - **v36.38**: wide-band anti-feedback (90 Hz - 12 kHz, catches low howls), the real mic in use shown in the jack panel, a 1 kHz reference tone for mixing desks, whole-folder sample loading.
 - **v36.37**: a tiny piano with REC in ACID, SCENE mode for the voice, voice echoes frequency-shifted by 3 Hz against feedback, screen always on and portrait-locked.

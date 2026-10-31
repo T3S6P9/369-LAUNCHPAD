@@ -39,6 +39,17 @@
 - **VOIX** : le micro du téléphone, transformé et joué par la tablette, en **PUR**, **ROBOT**, **HARMONIQUE**, **SYNTH**, **PITCH ▲** ou **PITCH ▼**, avec une porte de bruit réglable et une **reverb** dosable. BUILD fait monter un écho calé sur le tempo.
 - **La prise JACK, dans les deux sens** : le mix peut **sortir** par le jack vers la sono, ou un micro branché dans le jack peut **entrer** dans le vocodeur. Il y a aussi un **retour casque**, avec ou sans ta propre voix.
 
+## 🧪 369 ACID : 303, basse et boîte à rythmes
+
+<p align="center">
+  <img src="captures/acid_tablette_v36.45.jpg" alt="369 ACID sur tablette : basse, 303, squelch et DRUMS à 8 pistes" width="45%">
+</p>
+
+- **303** : une ligne acid de 16 pas (accent, slide, notes longues), 4 motifs, gamme et mutation, un pad **SQUELCH** au doigt, ou au **geste** sur le téléphone (pencher, tourner)
+- **BASSE 808** : un sinus saturé avec glide, 3 formes d'onde, un **LFO JUNGLE** et un **SIDECHAIN** calés sur le tempo
+- **DRUMS** : **8 pistes de samples** (un kit 808 fourni, ou tes propres sons, fichier par fichier ou par dossier), un **effet par piste**, et des cases découpées en 2, 3, 4 ou 6 coups
+- Jouable sur la tablette, ou sur un téléphone (en télécommande ou en son local), à **2, 3 ou 4 doigts**
+
 ## 🔗 JAM : plusieurs appareils, un seul son
 
 - Plusieurs tablettes et téléphones se calent sur le **même tempo**, réglé par le **maître**
@@ -61,6 +72,7 @@
 
 - **On the tablet**: 4 decks of tempo-synced loops with one fader per deck, three effect families (including 9 custom rhythmic **369 FX**), live macros (build, a true-silence drop, multi-speed stutter) and a mic tab.
 - **On the phone (963 XY)**: an XY remote with a **camera mode** (your hand becomes the finger) and a **voice mode** (pure, robot, harmonic, synth or pitch-shifted vocals played by the tablet). The phone's **jack works both ways**: the whole mix out to a speaker, or a mic in, straight into the vocoder, with a headphone return that can leave out your own voice.
+- **369 ACID**: a 303 acid line, an 808-style bass and an **8-track sample drum machine** (808 kit included, or load your own files or a whole folder), with one effect per track, triplet and sextuplet rolls, long notes, 4 patterns, scale-locked mutation, and a tempo-synced LFO and sidechain. Multi-touch: 2 to 4 fingers at once.
 - **JAM mode**: several devices share one tempo set by the master. In "master output" mode, everyone's pads *and effects* play through a single speaker. A **session key** keeps strangers out.
 
 See **[NOUVEAUTES.md](NOUVEAUTES.md)** for the full progress log.
