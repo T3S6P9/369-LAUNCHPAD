@@ -11,6 +11,54 @@
 
 ---
 
+## Novembre 2026
+
+### 🔜 En préparation · v36.51 · le synthé ACID grandit
+- Un **filtre « 303 »** à diodes, 24 dB, à côté de LP, BP et HP : la résonance qui crie et mange les graves, comme sur la vraie machine.
+- **WOW** : des accents qui se suivent font monter le filtre de plus en plus.
+- **MOUVEMENTS** : on tourne le filtre, la résonance, l'enveloppe ou le decay pendant 1, 2 ou 4 mesures, et l'ACID les rejoue en boucle. La main reprend la main dès qu'elle touche.
+- **Effets de l'ACID** : PHASER et FLANGER calés sur le tempo, delay **PING-PONG** avec sa **COULEUR**.
+- **Effets par deck** : on choisit quels decks (A, B, C, D) et si l'ACID passent dans les effets. Exemple : le deck des kicks reste sec, le reste part dans les effets.
+
+### v36.50 · 12 novembre · LOOP qui suit, STOP général, boutons ACID / BASSE / DRUMS
+- **LOOP** : elle **suit** maintenant les changements. On lance une séquence ou un pad pendant la LOOP, on l'entend à son temps, puis la LOOP repart avec lui. Avant, la nouvelle séquence restait cachée derrière la boucle.
+- **■ STOP** du PAD arrête **tout**, l'ACID compris, sur tous les appareils.
+- **Plus de bouton PLAY** dans l'ACID : on lance chaque partie avec **ACID**, **BASSE** ou **DRUMS**. Depuis l'arrêt, la partie touchée part seule ; quand la dernière s'éteint, tout s'arrête.
+- **SCRATCH retiré** : il ne servait pas en live.
+- Un rapport mesuré sur la page **LIVE DRUMS** (9 points à améliorer) prépare les prochaines retouches.
+
+<p align="center">
+  <img src="captures/acid_tablette_v36.50.jpg" alt="369 ACID v36.50 sur tablette debout : boutons ACID, BASSE, DRUMS, page ACID encadrée" width="38%">
+  &nbsp;
+  <img src="captures/acid_live_v36.50.jpg" alt="369 ACID v36.50 : la page LIVE (drums au doigt, PUNCH FX, ACID au doigt)" width="38%">
+</p>
+
+### v36.49 · 7 novembre · l'ACID sur la tablette debout
+- Chaque page (**ACID**, **BASSE**, **DRUMS**) dans un cadre à sa couleur, avec des tailles régulières : pas, clavier, faders et cases plus grands.
+- Les réglages et la piste choisie sont ouverts d'office, et le XY prend le reste de l'écran : plus de vide en bas.
+- Corrigés : **TAPE STOP** repris très vite (son doublé), et un double coup au départ du **NOTE REPEAT**.
+
+### v36.48 · 4 novembre · pages ACID / BASSE / DRUMS, filtre DJ, gestes par page
+- L'ACID se range en **3 pages**. Sur la tablette, **DUO** montre tout, comme avant.
+- **FILTRE DJ** des DRUMS : à gauche passe-bas, à droite passe-haut, deux tapes pour revenir au milieu.
+- Sur le téléphone, **le GESTE suit la page** : en DRUMS, pencher joue le filtre DJ et le swing, secouer lance un FILL ; en BASSE, pencher joue la coupure et le LFO, lever monte d'une octave.
+- Premier **SCRATCH** sur le PAD (retiré en v36.50).
+- Corrigé : une LOOP choisie puis coupée avant son départ pouvait rester coincée.
+
+### v36.47 · 3 novembre · les effets sous l'ACID, BPM à plusieurs
+- **EFFETS en bas de l'ACID** en plein écran : BEAT FX, COLOR FX, 369 FX et le XY, sans quitter l'ACID.
+- **BPM à plusieurs appareils** : le dernier qui change le tempo gagne. Deux fondus en même temps ne restent plus bloqués à des tempos différents.
+- Le DUO harmonisé : les colonnes finissent à la même hauteur et tout tient sur l'écran.
+
+### v36.46 · 31 octobre · ACID LIVE, PUNCH FX, LOOP du PAD
+- **ACID en plein écran** sur la tablette, et une page **LIVE** pour jouer :
+  - **DRUMS au doigt** : 8 pads, NOTE REPEAT (1/8 à 1/32, triolets), coupure de piste à la mesure, FILL tenu, REC DOIGTS, variations A / B, SWING ;
+  - **8 PUNCH FX** tenus : LOOP 1/4, LOOP 1/8, STUTTER, TAPE STOP, FILTRE, CRUSH, ÉCHO, À L'ENVERS ;
+  - **ACID au doigt** : squelch, faders, TRANSPOSE LIVE de la 303 et de la basse, octave, slide, motifs, mutation, intensité.
+- **GESTE++** sur le téléphone : pencher, bouger vite, secouer, lever d'un coup… chaque mouvement joue quelque chose.
+- **LOOP du PAD** : 16 à ½ temps, avec les effets par-dessus. La musique reprend là où elle en serait.
+- **BPM** : bandeau **SON EN PAUSE** (un doigt relance le son) et un **journal du BPM**.
+
 ## Octobre 2026
 
 ### v36.45 · 30 octobre · DRUMS : 8 pistes de samples, triolets et découpes en 6
