@@ -27,6 +27,7 @@
 - **BPM PROGRESSIF** (le tempo glisse sur 16 temps) ou **DIRECT**
 - **3 familles d'effets** :
   - **COLOR FX** : 8 effets pilotés au doigt sur un pad XY, envoyés seulement sur les colonnes choisies
+  - **EFFETS SUR** : chaque deck (A · B · C · D) et l'ACID passe dans les effets ou reste sec
   - **BEAT FX** : effets rythmiques au tempo (echo, roll avec triolets…)
   - **369 FX** : 9 effets maison qui bougent en rythme, GATE 369, PUMP, CRUSH, SWELL ECHO, SHIFT 369, WARP, RISE PUMP, REFLECT ECHO et MULTI DELAY, jusqu'à 3 empilés
 - **Macros de live** : BUILD, DROP (un vrai silence de 1 à 4 temps, puis l'impact) et STUTTER (plusieurs roulements, jusqu'à l'accélération), toutes sur le temps fort
@@ -43,12 +44,13 @@
 ## 🧪 369 ACID : 303, basse et boîte à rythmes
 
 <p align="center">
-  <img src="captures/acid_tablette_v36.50.jpg" alt="369 ACID sur tablette debout : boutons ACID, BASSE, DRUMS, page ACID" width="38%">
+  <img src="captures/acid_tablette_v36.51.jpg" alt="369 ACID sur tablette debout : filtre 303, MOUVEMENTS, EFFETS 303, EFFETS SUR" width="38%">
   &nbsp;
   <img src="captures/acid_live_v36.50.jpg" alt="369 ACID : la page LIVE, drums au doigt, PUNCH FX, ACID au doigt" width="38%">
 </p>
 
 - **303** : une ligne acid de 16 pas (accent, slide, notes longues), 4 motifs, gamme et mutation, un pad **SQUELCH** au doigt, ou au **geste** sur le téléphone (pencher, tourner)
+- **Filtre 303** à diodes (à côté de LP, BP, HP), **WOW** sur les accents, **MOUVEMENTS** enregistrés et rejoués en boucle, **PHASER**, **FLANGER** et delay **PING-PONG** calés sur le tempo
 - **BASSE 808** : un sinus saturé avec glide, 3 formes d'onde, un **LFO JUNGLE** et un **SIDECHAIN** calés sur le tempo
 - **DRUMS** : **8 pistes de samples** (un kit 808 fourni, ou tes propres sons, fichier par fichier ou par dossier), un **effet par piste**, et des cases découpées en 2, 3, 4 ou 6 coups
 - **ACID · BASSE · DRUMS** : un bouton lance chaque partie, et le STOP du PAD arrête tout

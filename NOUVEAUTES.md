@@ -13,12 +13,17 @@
 
 ## Novembre 2026
 
-### 🔜 En préparation · v36.51 · le synthé ACID grandit
-- Un **filtre « 303 »** à diodes, 24 dB, à côté de LP, BP et HP : la résonance qui crie et mange les graves, comme sur la vraie machine.
-- **WOW** : des accents qui se suivent font monter le filtre de plus en plus.
-- **MOUVEMENTS** : on tourne le filtre, la résonance, l'enveloppe ou le decay pendant 1, 2 ou 4 mesures, et l'ACID les rejoue en boucle. La main reprend la main dès qu'elle touche.
-- **Effets de l'ACID** : PHASER et FLANGER calés sur le tempo, delay **PING-PONG** avec sa **COULEUR**.
-- **Effets par deck** : on choisit quels decks (A, B, C, D) et si l'ACID passent dans les effets. Exemple : le deck des kicks reste sec, le reste part dans les effets.
+### v36.51 · 13 novembre · le synthé ACID grandit, effets par deck
+- Un **filtre « 303 »** à diodes, 24 dB, à côté de LP, BP et HP, choisi dans le titre du SQUELCH. La résonance crie et mange les graves, comme sur la vraie machine, sans jamais partir en sifflement sans fin. Il est réglé pour avoir la même brillance et le même volume que le LP : on entend le caractère, pas le volume.
+- **WOW** : des accents qui se suivent font monter le filtre de plus en plus, puis il redescend après le groupe.
+- **MOUVEMENTS** : on appuie sur REC, on tourne le filtre, la résonance, l'enveloppe ou le decay pendant 1, 2 ou 4 mesures, et l'ACID rejoue les gestes en boucle. La main reprend la main dès qu'elle touche.
+- **EFFETS 303** : PHASER et FLANGER calés sur le tempo, avec leur dose, un delay **PING-PONG** et sa **COULEUR** (sombre ↔ fin).
+- **EFFETS SUR : A B C D ACID** : chaque deck, et l'ACID, passe dans les effets ou reste **sec**. Exemple : le deck des kicks reste sec, le reste part dans l'écho.
+- Par défaut, rien ne change : le son est mesuré identique à la v36.50 tant qu'on ne touche pas aux nouveaux boutons.
+
+<p align="center">
+  <img src="captures/acid_tablette_v36.51.jpg" alt="369 ACID v36.51 sur tablette debout : filtre LP BP HP 303, MOUVEMENTS, EFFETS 303, rangée EFFETS SUR" width="40%">
+</p>
 
 ### v36.50 · 12 novembre · LOOP qui suit, STOP général, boutons ACID / BASSE / DRUMS
 - **LOOP** : elle **suit** maintenant les changements. On lance une séquence ou un pad pendant la LOOP, on l'entend à son temps, puis la LOOP repart avec lui. Avant, la nouvelle séquence restait cachée derrière la boucle.
@@ -177,6 +182,9 @@
 
 ## English (short)
 
+- **v36.51**: a diode-ladder **"303" filter** (24 dB, next to LP / BP / HP), matched in brightness and loudness so you hear the character, not the level. **WOW**: accents in a row push the filter higher and higher. **Motion recording**: hit REC, turn cutoff, resonance, envelope or decay for 1, 2 or 4 bars, and the 303 plays your moves back in a loop (your hand always wins). **303 effects**: tempo-synced phaser and flanger, ping-pong delay with a dark-to-bright colour. **Effects per deck**: each deck (A, B, C, D) and the ACID can go through the effects or stay dry.
+- **v36.50**: the LOOP now follows sequence changes, STOP stops everything, ACID / BASSE / DRUMS buttons start each part (no more PLAY), SCRATCH removed.
+- **v36.46 → v36.49**: full-screen ACID with a **LIVE** page (finger drums with note repeat, 8 held punch effects, live transpose), effects under the ACID, multi-device tempo, ACID / BASS / DRUMS pages with a DJ filter and per-page phone gestures, framed pages on a portrait tablet.
 - **v36.45**: the synthesized 808 makes way for **DRUMS**, an **8-track sample drum machine** (an 808 kit rendered as samples is loaded by default, or load your own files or a whole folder). One effect per track (distortion, compression, reverb, delay, low-pass, high-pass, bitcrusher) with its own amount and pitch. Steps and notes can be split into 2, 3 (**triplets**), 4 or 6 hits. New **303** settings (sub, detune, synced filter LFO, LP / BP / HP filter, octave) and **bass** settings (boom, attack, glide, cutoff, resonance, octave).
 - **v36.44**: a first 8-line sample drum rack under the 808.
 - **v36.43**: long notes, 4 patterns per instrument (switching exactly on the bar), scale-locked random and mutation, a LIVE panel with FILL and INTENSITY.
