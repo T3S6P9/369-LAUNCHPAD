@@ -13,6 +13,21 @@
 
 ## Novembre 2026
 
+### v36.52 · 14 novembre · PAD FX et STRESS 369
+- **PAD FX** : un bouton au-dessus de la grille la transforme en **64 effets à tenir**, comme les PAD FX des contrôleurs DJ. Le doigt posé lance l'effet, le doigt levé fait revenir le son net.
+  - **8 familles** : ECHO, ROLL, FILTRE, GATE, CRUSH, REVERB (avec FREEZE et SWELL), FREIN (frein de platine, backspin, pitch) et les **369 FX**.
+  - 2 ou 3 doigts **empilent** les effets.
+  - **VARIATION A B C D** change la façon de jouer de toute la grille : triolets, résonance, version sombre, version extrême.
+  - **LOCK** garde un effet allumé, **TOUT OFF** éteint tout.
+  - Les 64 cases tiennent à l'écran, au-dessus du panneau des effets.
+  - Un deck laissé **sec** reste sec.
+- **STRESS 369**, le « tempo stresseur » : dans chaque cycle, le son ralentit puis rattrape, et retombe **pile sur le temps** au début du cycle suivant. Le tempo des autres decks ne bouge pas. On choisit la profondeur et la forme : **SOUPLE**, **STRESS** ou **NERVEUX**.
+- En mode PADS, rien ne change : le son est mesuré identique, échantillon pour échantillon.
+
+<p align="center">
+  <img src="captures/padfx_tablette_v36.52.jpg" alt="369 LAUNCHPAD v36.52 : la grille PAD FX, 64 effets à tenir en 8 familles" width="40%">
+</p>
+
 ### v36.51 · 13 novembre · le synthé ACID grandit, effets par deck
 - Un **filtre « 303 »** à diodes, 24 dB, à côté de LP, BP et HP, choisi dans le titre du SQUELCH. La résonance crie et mange les graves, comme sur la vraie machine, sans jamais partir en sifflement sans fin. Il est réglé pour avoir la même brillance et le même volume que le LP : on entend le caractère, pas le volume.
 - **WOW** : des accents qui se suivent font monter le filtre de plus en plus, puis il redescend après le groupe.
@@ -182,6 +197,7 @@
 
 ## English (short)
 
+- **v36.52**: **PAD FX**: one button turns the main grid into **64 hold-to-play effects**, like the pad FX on DJ controllers (echo, roll, filter, gate, crush, reverb with freeze and swell, vinyl brake / backspin / pitch, and the 369 FX). Stack 2 or 3 with your fingers, switch the whole grid between 4 variations, lock an effect on, or turn everything off. **STRESS 369**, the "tempo stresser": within each cycle the sound slows down and catches up, landing exactly back on the beat; choose the depth and the shape (smooth, stress, nervous).
 - **v36.51**: a diode-ladder **"303" filter** (24 dB, next to LP / BP / HP), matched in brightness and loudness so you hear the character, not the level. **WOW**: accents in a row push the filter higher and higher. **Motion recording**: hit REC, turn cutoff, resonance, envelope or decay for 1, 2 or 4 bars, and the 303 plays your moves back in a loop (your hand always wins). **303 effects**: tempo-synced phaser and flanger, ping-pong delay with a dark-to-bright colour. **Effects per deck**: each deck (A, B, C, D) and the ACID can go through the effects or stay dry.
 - **v36.50**: the LOOP now follows sequence changes, STOP stops everything, ACID / BASSE / DRUMS buttons start each part (no more PLAY), SCRATCH removed.
 - **v36.46 → v36.49**: full-screen ACID with a **LIVE** page (finger drums with note repeat, 8 held punch effects, live transpose), effects under the ACID, multi-device tempo, ACID / BASS / DRUMS pages with a DJ filter and per-page phone gestures, framed pages on a portrait tablet.

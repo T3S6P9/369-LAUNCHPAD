@@ -29,7 +29,8 @@
   - **COLOR FX** : 8 effets pilotés au doigt sur un pad XY, envoyés seulement sur les colonnes choisies
   - **EFFETS SUR** : chaque deck (A · B · C · D) et l'ACID passe dans les effets ou reste sec
   - **BEAT FX** : effets rythmiques au tempo (echo, roll avec triolets…)
-  - **369 FX** : 9 effets maison qui bougent en rythme, GATE 369, PUMP, CRUSH, SWELL ECHO, SHIFT 369, WARP, RISE PUMP, REFLECT ECHO et MULTI DELAY, jusqu'à 3 empilés
+  - **369 FX** : 10 effets maison qui bougent en rythme, GATE 369, PUMP, CRUSH, SWELL ECHO, SHIFT 369, WARP, RISE PUMP, REFLECT ECHO, MULTI DELAY et **STRESS 369** (le tempo stresseur), jusqu'à 3 empilés
+  - **PAD FX** : la grille devient 64 effets à tenir au doigt (8 familles, 4 variations, LOCK), comme sur un contrôleur DJ
 - **Macros de live** : BUILD, DROP (un vrai silence de 1 à 4 temps, puis l'impact) et STUTTER (plusieurs roulements, jusqu'à l'accélération), toutes sur le temps fort
 - **Onglet MIC** : le micro de la tablette, avec une porte de bruit sélective
 - **Réseau neuronal visuel** qui s'allume à chaque pad, et une électricité dans les cases qui suit le volume de chaque deck
