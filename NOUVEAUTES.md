@@ -13,6 +13,16 @@
 
 ## Novembre 2026
 
+### v36.53 · 18 novembre · REVERSE et effets psyché dans le PAD FX
+- La colonne FREIN du PAD FX devient **REV · PSY** :
+  - **REV 1/8, REV 1/4, REV 1 MES** : les derniers temps rejouent **à l'envers**, en boucle, calés sur le tempo ;
+  - **REV ÉCHO** : à l'envers, avec des échos qui sautent de gauche à droite ;
+  - **VAPORISÉ** : le son se dissout en grains ;
+  - **PLANCTON** : de petits échos qui flottent ;
+  - **FRACTAL** : des échos en 3-6-9 qui se redivisent ;
+  - **SHIMMER** : une réverbe qui monte d'une octave.
+- Tout le reste est identique à la v36.52.
+
 ### v36.52 · 14 novembre · PAD FX et STRESS 369
 - **PAD FX** : un bouton au-dessus de la grille la transforme en **64 effets à tenir**, comme les PAD FX des contrôleurs DJ. Le doigt posé lance l'effet, le doigt levé fait revenir le son net.
   - **8 familles** : ECHO, ROLL, FILTRE, GATE, CRUSH, REVERB (avec FREEZE et SWELL), FREIN (frein de platine, backspin, pitch) et les **369 FX**.
@@ -197,6 +207,7 @@
 
 ## English (short)
 
+- **v36.53**: the PAD FX brake column becomes **REV · PSY**: tempo-synced **reverse** (1/8, 1/4, 1 bar, reverse echo) plus four psychedelic effects (**vaporised** granular cloud, floating **plankton** echoes, **fractal** 3-6-9 echoes, octave-up **shimmer** reverb).
 - **v36.52**: **PAD FX**: one button turns the main grid into **64 hold-to-play effects**, like the pad FX on DJ controllers (echo, roll, filter, gate, crush, reverb with freeze and swell, vinyl brake / backspin / pitch, and the 369 FX). Stack 2 or 3 with your fingers, switch the whole grid between 4 variations, lock an effect on, or turn everything off. **STRESS 369**, the "tempo stresser": within each cycle the sound slows down and catches up, landing exactly back on the beat; choose the depth and the shape (smooth, stress, nervous).
 - **v36.51**: a diode-ladder **"303" filter** (24 dB, next to LP / BP / HP), matched in brightness and loudness so you hear the character, not the level. **WOW**: accents in a row push the filter higher and higher. **Motion recording**: hit REC, turn cutoff, resonance, envelope or decay for 1, 2 or 4 bars, and the 303 plays your moves back in a loop (your hand always wins). **303 effects**: tempo-synced phaser and flanger, ping-pong delay with a dark-to-bright colour. **Effects per deck**: each deck (A, B, C, D) and the ACID can go through the effects or stay dry.
 - **v36.50**: the LOOP now follows sequence changes, STOP stops everything, ACID / BASSE / DRUMS buttons start each part (no more PLAY), SCRATCH removed.
