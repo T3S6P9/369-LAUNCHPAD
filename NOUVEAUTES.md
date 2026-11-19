@@ -13,6 +13,15 @@
 
 ## Novembre 2026
 
+### v36.54 · 19 novembre · MODUL 369, un synthé modulaire dans l'ACID
+- Une **4e page** dans l'ACID, **MODUL**, et une 4e partie à lancer (**▶ MODUL**), à côté d'ACID, BASSE et DRUMS.
+- **9 modules** : deux oscillateurs, bruit + sample & hold, filtre (LP, BP, HP ou 303), plieur d'onde, VCA, enveloppe, **LFO 369** calé sur le tempo, **SÉQ 369** (3, 6, 9, 8 ou 16 pas).
+- Il sonne **sans câble** ; **✚ CÂBLER** : on touche une sortie puis une entrée (9 câbles au plus, une profondeur par câble).
+- **LIENS** : les notes du 303 et de la basse, le kick et le GESTE du téléphone peuvent piloter MODUL.
+- **9 patchs** prêts (PSY ROLL, BERLIN, ACID 2, BLEEPS, DRONE 369, POMPE, TESLA, GOUTTES, VIDE), **3 mémoires**, MOUVEMENTS.
+- **EFFETS SUR** a un 6e bouton : MOD.
+- Tant que MODUL est éteint, l'ACID sonne exactement comme avant.
+
 ### v36.53 · 18 novembre · REVERSE et effets psyché dans le PAD FX
 - La colonne FREIN du PAD FX devient **REV · PSY** :
   - **REV 1/8, REV 1/4, REV 1 MES** : les derniers temps rejouent **à l'envers**, en boucle, calés sur le tempo ;
@@ -207,6 +216,7 @@
 
 ## English (short)
 
+- **v36.54**: **MODUL 369**, a modular synth inside the ACID: a 4th page and a 4th part to launch. 9 modules (2 oscillators, noise + sample & hold, filter LP / BP / HP / 303, wavefolder, VCA, envelope, tempo-synced LFO 369, SEQ 369 with 3, 6, 9, 8 or 16 steps). It plays without cables; tap an output then an input to patch (up to 9 cables). LINKS: the 303 and bass notes, the kick and the phone GESTURE can drive it. 9 ready patches, 3 memories, motion recording.
 - **v36.53**: the PAD FX brake column becomes **REV · PSY**: tempo-synced **reverse** (1/8, 1/4, 1 bar, reverse echo) plus four psychedelic effects (**vaporised** granular cloud, floating **plankton** echoes, **fractal** 3-6-9 echoes, octave-up **shimmer** reverb).
 - **v36.52**: **PAD FX**: one button turns the main grid into **64 hold-to-play effects**, like the pad FX on DJ controllers (echo, roll, filter, gate, crush, reverb with freeze and swell, vinyl brake / backspin / pitch, and the 369 FX). Stack 2 or 3 with your fingers, switch the whole grid between 4 variations, lock an effect on, or turn everything off. **STRESS 369**, the "tempo stresser": within each cycle the sound slows down and catches up, landing exactly back on the beat; choose the depth and the shape (smooth, stress, nervous).
 - **v36.51**: a diode-ladder **"303" filter** (24 dB, next to LP / BP / HP), matched in brightness and loudness so you hear the character, not the level. **WOW**: accents in a row push the filter higher and higher. **Motion recording**: hit REC, turn cutoff, resonance, envelope or decay for 1, 2 or 4 bars, and the 303 plays your moves back in a loop (your hand always wins). **303 effects**: tempo-synced phaser and flanger, ping-pong delay with a dark-to-bright colour. **Effects per deck**: each deck (A, B, C, D) and the ACID can go through the effects or stay dry.
