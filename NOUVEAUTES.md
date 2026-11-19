@@ -13,6 +13,12 @@
 
 ## Novembre 2026
 
+### v36.55 · 19 novembre · MODUL s'arrête avec la page
+- Quand la page s'arrête (écran coupé, appli en fond, onglet fermé), **MODUL se tait en moins d'une seconde**, comme le reste de l'ACID. Avant, il pouvait continuer tout seul.
+- Quand la page revient, il **repart tout seul, calé sur le tempo**.
+- MODUL coupé **ne calcule plus rien**, même avec de l'écho : moins de travail pour la tablette.
+- Rien d'autre ne change.
+
 ### v36.54 · 19 novembre · MODUL 369, un synthé modulaire dans l'ACID
 - Une **4e page** dans l'ACID, **MODUL**, et une 4e partie à lancer (**▶ MODUL**), à côté d'ACID, BASSE et DRUMS.
 - **9 modules** : deux oscillateurs, bruit + sample & hold, filtre (LP, BP, HP ou 303), plieur d'onde, VCA, enveloppe, **LFO 369** calé sur le tempo, **SÉQ 369** (3, 6, 9, 8 ou 16 pas).
