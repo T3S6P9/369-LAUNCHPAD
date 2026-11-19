@@ -21,6 +21,7 @@
 - **9 patchs** prêts (PSY ROLL, BERLIN, ACID 2, BLEEPS, DRONE 369, POMPE, TESLA, GOUTTES, VIDE), **3 mémoires**, MOUVEMENTS.
 - **EFFETS SUR** a un 6e bouton : MOD.
 - Tant que MODUL est éteint, l'ACID sonne exactement comme avant.
+- 🎬 **Vidéo** : [les 9 modules en 58 s](video/369_MODUL_v36.54.mp4), sur la vraie page du téléphone avec le vrai son du launchpad.
 
 ### v36.53 · 18 novembre · REVERSE et effets psyché dans le PAD FX
 - La colonne FREIN du PAD FX devient **REV · PSY** :

@@ -27,7 +27,7 @@
 - **BPM PROGRESSIF** (le tempo glisse sur 16 temps) ou **DIRECT**
 - **3 familles d'effets** :
   - **COLOR FX** : 8 effets pilotés au doigt sur un pad XY, envoyés seulement sur les colonnes choisies
-  - **EFFETS SUR** : chaque deck (A · B · C · D) et l'ACID passe dans les effets ou reste sec
+  - **EFFETS SUR** : chaque deck (A · B · C · D), l'ACID et MODUL passent dans les effets ou restent secs
   - **BEAT FX** : effets rythmiques au tempo (echo, roll avec triolets…)
   - **369 FX** : 10 effets maison qui bougent en rythme, GATE 369, PUMP, CRUSH, SWELL ECHO, SHIFT 369, WARP, RISE PUMP, REFLECT ECHO, MULTI DELAY et **STRESS 369** (le tempo stresseur), jusqu'à 3 empilés
   - **PAD FX** : la grille devient 64 effets à tenir au doigt (8 familles, 4 variations, LOCK), comme sur un contrôleur DJ
@@ -54,7 +54,8 @@
 - **Filtre 303** à diodes (à côté de LP, BP, HP), **WOW** sur les accents, **MOUVEMENTS** enregistrés et rejoués en boucle, **PHASER**, **FLANGER** et delay **PING-PONG** calés sur le tempo
 - **BASSE 808** : un sinus saturé avec glide, 3 formes d'onde, un **LFO JUNGLE** et un **SIDECHAIN** calés sur le tempo
 - **DRUMS** : **8 pistes de samples** (un kit 808 fourni, ou tes propres sons, fichier par fichier ou par dossier), un **effet par piste**, et des cases découpées en 2, 3, 4 ou 6 coups
-- **ACID · BASSE · DRUMS** : un bouton lance chaque partie, et le STOP du PAD arrête tout
+- **MODUL 369** : un **synthé modulaire** de 9 modules (2 oscillateurs, bruit + sample & hold, filtre LP / BP / HP / 303, plieur d'onde, VCA, enveloppe, **LFO 369** et **SÉQ 369** de 3, 6, 9, 8 ou 16 pas, calés sur le tempo). Il sonne sans câble ; on branche **au doigt** (une sortie, puis une entrée). Il a 9 patchs prêts, et les notes du 303 et de la basse, le kick et le geste du téléphone peuvent le piloter.
+- **ACID · BASSE · DRUMS · MODUL** : un bouton lance chaque partie, et le STOP du PAD arrête tout
 - **LIVE** : une page pour jouer au doigt, avec les drums en NOTE REPEAT, 8 **PUNCH FX** tenus (loop, stutter, tape stop, à l'envers…) et la transposition en direct
 - Jouable sur la tablette, ou sur un téléphone (en télécommande ou en son local), à **2, 3 ou 4 doigts**, et au **geste** : chaque page a ses mouvements
 
@@ -65,6 +66,12 @@
 - **Clé de session** : seuls les appareils qui ont la clé affichée au lancement peuvent se joindre au jam.
 
 ## 🎬 Démo
+
+<p align="center">
+  <a href="video/369_MODUL_v36.54.mp4"><img src="captures/video_modul_v36.54.jpg" alt="MODUL 369 : le synthé modulaire de 369 LAUNCHPAD, module par module" width="32%"></a>
+  <br>
+  <a href="video/369_MODUL_v36.54.mp4"><b>▶ MODUL 369 : les 9 modules en 58 s / the 9 modules in 58 s</b></a> · vraie page du téléphone, vrai son du launchpad (v36.54)
+</p>
 
 <p align="center">
   <a href="video/369_LP_ACID_v36.39.mp4"><img src="captures/video_v36.39.jpg" alt="369 LAUNCHPAD : tablette, téléphones et 369 ACID en live" width="40%"></a>
@@ -80,7 +87,8 @@
 
 - **On the tablet**: 4 decks of tempo-synced loops with one fader per deck, three effect families (including 9 custom rhythmic **369 FX**), live macros (build, a true-silence drop, multi-speed stutter) and a mic tab.
 - **On the phone (963 XY)**: an XY remote with a **camera mode** (your hand becomes the finger) and a **voice mode** (pure, robot, harmonic, synth or pitch-shifted vocals played by the tablet). The phone's **jack works both ways**: the whole mix out to a speaker, or a mic in, straight into the vocoder, with a headphone return that can leave out your own voice.
-- **369 ACID**: a 303 acid line, an 808-style bass and an **8-track sample drum machine** (808 kit included, or load your own files or a whole folder), with one effect per track, triplet and sextuplet rolls, long notes, 4 patterns, scale-locked mutation, and a tempo-synced LFO and sidechain. A **LIVE** page for finger drumming (note repeat, 8 hold-to-play punch FX, live transpose), one button per part (ACID, BASS, DRUMS), and per-page phone gestures. Multi-touch: 2 to 4 fingers at once.
+- **369 ACID**: a 303 acid line, an 808-style bass and an **8-track sample drum machine** (808 kit included, or load your own files or a whole folder), with one effect per track, triplet and sextuplet rolls, long notes, 4 patterns, scale-locked mutation, and a tempo-synced LFO and sidechain. A **LIVE** page for finger drumming (note repeat, 8 hold-to-play punch FX, live transpose), one button per part (ACID, BASS, DRUMS, MODUL), and per-page phone gestures. Multi-touch: 2 to 4 fingers at once.
+- **MODUL 369**: a modular synth inside the ACID: 9 modules (2 oscillators, noise + sample & hold, LP / BP / HP / 303 filter, wavefolder, VCA, envelope, tempo-synced LFO 369 and SEQ 369 with 3, 6, 9, 8 or 16 steps). It plays without cables, you patch with your finger, it has 9 ready-made patches, and the 303 and bass notes, the kick and the phone gesture can drive it.
 - **JAM mode**: several devices share one tempo set by the master. In "master output" mode, everyone's pads *and effects* play through a single speaker. A **session key** keeps strangers out.
 
 See **[NOUVEAUTES.md](NOUVEAUTES.md)** for the full progress log.
