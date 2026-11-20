@@ -13,6 +13,12 @@
 
 ## Novembre 2026
 
+### v36.56 · 20 novembre · MODUL ne se coupe plus à tort
+- La v36.55 coupait MODUL dès que la page était un peu lente (tablette ou téléphone chargés) : coupures et craquements. C'est corrigé.
+- MODUL ne s'arrête plus que si la page ne donne plus rien pendant 2 s (écran coupé, appli en fond, onglet fermé), et en fondu doux.
+- En jeu normal, MODUL sonne exactement comme avant.
+- Un nouveau test fait tourner l'appli sur une page ralentie jusqu'à 20 fois, pour ne plus laisser passer ce genre de défaut.
+
 ### v36.55 · 19 novembre · MODUL s'arrête avec la page
 - Quand la page s'arrête (écran coupé, appli en fond, onglet fermé), **MODUL se tait en moins d'une seconde**, comme le reste de l'ACID. Avant, il pouvait continuer tout seul.
 - Quand la page revient, il **repart tout seul, calé sur le tempo**.
