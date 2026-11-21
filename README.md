@@ -68,6 +68,12 @@
 ## 🎬 Démo
 
 <p align="center">
+  <a href="video/369_INTERFACES_v36.56.mp4"><img src="captures/video_interfaces_v36.56.jpg" alt="369 LAUNCHPAD : la tablette, le téléphone 963 XY et 369 ACID, interface par interface" width="32%"></a>
+  <br>
+  <a href="video/369_INTERFACES_v36.56.mp4"><b>▶ Les interfaces en 95 s / the interfaces in 95 s</b></a> · tablette, 963 XY, 369 ACID : les vraies pages, le vrai son du launchpad (v36.56)
+</p>
+
+<p align="center">
   <a href="video/369_MODUL_v36.54.mp4"><img src="captures/video_modul_v36.54.jpg" alt="MODUL 369 : le synthé modulaire de 369 LAUNCHPAD, module par module" width="32%"></a>
   <br>
   <a href="video/369_MODUL_v36.54.mp4"><b>▶ MODUL 369 : les 9 modules en 58 s / the 9 modules in 58 s</b></a> · vraie page du téléphone, vrai son du launchpad (v36.54)

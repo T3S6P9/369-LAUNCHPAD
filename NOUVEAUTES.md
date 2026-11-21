@@ -13,6 +13,13 @@
 
 ## Novembre 2026
 
+### Vidéo · 21 novembre · Les interfaces en 95 s
+- Une nouvelle vidéo, verticale : **[▶ les interfaces](video/369_INTERFACES_v36.56.mp4)**.
+- **La tablette** : les decks, LOOP, COLOR FX, 369 FX et PAD FX.
+- **Le téléphone 963 XY** : la télécommande XY, la caméra, la voix et BUILD.
+- **369 ACID** : la 303, SQUELCH, DRUMS, BASSE 808, MODUL 369 et LIVE.
+- Ce sont les vraies pages de la v36.56, et le son vient du launchpad lui-même.
+
 ### v36.56 · 20 novembre · MODUL ne se coupe plus à tort
 - La v36.55 coupait MODUL dès que la page était un peu lente (tablette ou téléphone chargés) : coupures et craquements. C'est corrigé.
 - MODUL ne s'arrête plus que si la page ne donne plus rien pendant 2 s (écran coupé, appli en fond, onglet fermé), et en fondu doux.
