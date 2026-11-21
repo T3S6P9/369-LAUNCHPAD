@@ -13,6 +13,13 @@
 
 ## Novembre 2026
 
+### v36.58 · 21 novembre · le jack du téléphone ne sature plus, MODUL dit où il sonne
+- En **MODUL ICI**, quand la tablette joue fort et que MODUL s'ajoute, la sortie du téléphone dépassait le maximum, ce qui faisait des craquements dans le jack.
+- Le téléphone a maintenant une **protection comme la tablette** : rien ne change tant que le son reste sous le maximum, et ce qui dépasse est arrondi en douceur.
+- Mesuré sur les 3 performances : de 2 640 à 9 450 échantillons coupés avant, **0** maintenant, au même volume.
+- Aucun retard ajouté : MODUL reste calé sur le kick.
+- **MODUL dit où il sonne** : sur le téléphone en SON : TABLETTE, la page MODUL explique qu'il faut toucher MODUL ICI et brancher le baffle sur le téléphone, et le bouton MODUL ICI clignote quand MODUL est allumé.
+
 ### v36.57 · 21 novembre · MODUL passe sur le téléphone
 - **La tablette ne calcule plus MODUL.** C'est lui qui la faisait ramer et planter.
 - MODUL tourne maintenant **sur un téléphone** : dans 369 ACID, le bouton **MODUL ICI**. Le téléphone reçoit le son de la tablette, calcule MODUL calé dessus, et **tout sort de son jack**.
