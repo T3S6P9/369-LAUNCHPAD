@@ -13,6 +13,14 @@
 
 ## Novembre 2026
 
+### v36.57 · 21 novembre · MODUL passe sur le téléphone
+- **La tablette ne calcule plus MODUL.** C'est lui qui la faisait ramer et planter.
+- MODUL tourne maintenant **sur un téléphone** : dans 369 ACID, le bouton **MODUL ICI**. Le téléphone reçoit le son de la tablette, calcule MODUL calé dessus, et **tout sort de son jack**.
+- On règle MODUL **depuis la tablette ou depuis le téléphone**, au choix.
+- L'ACID (303, basse, batterie) reste sur la tablette.
+- **DÉCALAGE DE MODUL** (−5 / +5 ms) : pour caler MODUL à l'oreille si besoin.
+- Prochaine étape : MODUL sur l'ordinateur, quand l'ordinateur est maître.
+
 ### Vidéo · 21 novembre · Les interfaces en 95 s
 - Une nouvelle vidéo, verticale : **[▶ les interfaces](video/369_INTERFACES_v36.56.mp4)**.
 - **La tablette** : les decks, LOOP, COLOR FX, 369 FX et PAD FX.
