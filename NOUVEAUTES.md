@@ -13,6 +13,20 @@
 
 ## Novembre 2026
 
+### v36.61 · 22 novembre · MODUL ICI montre où ça bloque
+- Quand MODUL ICI ne démarrait pas, le téléphone restait sur « j'attends le son de la tablette » : la vraie erreur était effacée aussitôt.
+- **5 voyants** sur le téléphone : **MOTEUR**, **DEMANDE**, **TABLETTE**, **SON**, **CALAGE**. Vert = bon, orange = en cours, rouge = c'est là que ça bloque. Une phrase dit pourquoi.
+- **Retoucher MODUL ICI = réessayer**, avec un moteur audio tout neuf s'il ne s'était pas chargé.
+- La demande de son passe aussi par le même chemin que les commandes de l'ACID.
+- La tablette écrit dans son journal quand le téléphone demande le son, ou pourquoi elle ne peut pas l'envoyer.
+
+### v36.60 · 22 novembre · MODUL : le 10e module, SAMPLE
+- **Un son devient une source** de MODUL, comme les oscillateurs ou le bruit : il passe ensuite dans le filtre et tout le reste.
+- **3 sons (S1 S2 S3)**, chargés sur le téléphone : un **fichier**, le **micro** (calé sur la mesure), ou **MODUL lui-même** (rééchantillonné).
+- **COUP** : chaque note de la séquence relance le son, comme un pad de MPC. **BOUCLE** : il tourne en nappe, avec un fondu au raccord.
+- Début, longueur, accord, suivi du clavier, **à l'envers** ; des prises pour la hauteur, le déclenchement, la position et le choix du son.
+- Sans son chargé, les 9 patchs sonnent **exactement** comme avant.
+
 ### v36.59 · 22 novembre · REC en MODUL ICI, la BASSE en vertical
 - **REC depuis la tablette quand le téléphone joue en MODUL ICI** : c'est le téléphone qui enregistre ce qui sort de son jack (la tablette **et** MODUL). Le WAV 24 bits arrive sur le téléphone.
 - Si aucun téléphone ne répond, la tablette enregistre elle-même, comme avant, et le dit.
