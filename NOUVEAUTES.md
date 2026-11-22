@@ -13,6 +13,11 @@
 
 ## Novembre 2026
 
+### v36.59 · 22 novembre · REC en MODUL ICI, la BASSE en vertical
+- **REC depuis la tablette quand le téléphone joue en MODUL ICI** : c'est le téléphone qui enregistre ce qui sort de son jack (la tablette **et** MODUL). Le WAV 24 bits arrive sur le téléphone.
+- Si aucun téléphone ne répond, la tablette enregistre elle-même, comme avant, et le dit.
+- **La page BASSE du téléphone reste en vertical**, comme ACID, DRUMS et MODUL.
+
 ### v36.58 · 21 novembre · le jack du téléphone ne sature plus, MODUL dit où il sonne
 - En **MODUL ICI**, quand la tablette joue fort et que MODUL s'ajoute, la sortie du téléphone dépassait le maximum, ce qui faisait des craquements dans le jack.
 - Le téléphone a maintenant une **protection comme la tablette** : rien ne change tant que le son reste sous le maximum, et ce qui dépasse est arrondi en douceur.
