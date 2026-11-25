@@ -13,6 +13,16 @@
 
 ## Novembre 2026
 
+### v36.62 · 25 novembre · LE SON SORT DE, DRUMS 8 / 16 pas, un seul SAMPLE
+- **LE SON SORT DE** : sur le téléphone 369 ACID, on choisit qui joue.
+  - **TABLETTE** : la tablette joue tout, **MODUL compris**. MODUL revient sur la tablette.
+  - **TÉLÉPHONE** : tout sort du jack du téléphone (l'ancien MODUL ICI).
+  - **TÉL. SEUL** : le téléphone joue sans tablette.
+- **Une seule source à la fois** : MODUL n'est jamais calculé à deux endroits. On le règle depuis la tablette ou depuis le téléphone.
+- Si la tablette rame avec MODUL, sa page MODUL le dit en rouge et conseille de passer en TÉLÉPHONE.
+- **DRUMS : 8 ou 16 pas**. En 8 pas, les cases 9 à 16 sont grisées, mais rien n'est effacé.
+- **SAMPLE : un seul son**. On le charge sur la tablette ou sur le téléphone : il part tout seul vers l'autre appareil.
+
 ### v36.61 · 22 novembre · MODUL ICI montre où ça bloque
 - Quand MODUL ICI ne démarrait pas, le téléphone restait sur « j'attends le son de la tablette » : la vraie erreur était effacée aussitôt.
 - **5 voyants** sur le téléphone : **MOTEUR**, **DEMANDE**, **TABLETTE**, **SON**, **CALAGE**. Vert = bon, orange = en cours, rouge = c'est là que ça bloque. Une phrase dit pourquoi.
