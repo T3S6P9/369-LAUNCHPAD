@@ -13,6 +13,11 @@
 
 ## Novembre 2026
 
+### v36.63 · 25 novembre · le téléphone démarre avec les effets de la 303
+- En **TÉLÉPHONE**, le moteur du téléphone ne démarrait pas quand un effet de la 303 (**PHASER** ou **FLANGER**) était allumé : il démarrait avant de connaître le tempo de la tablette, et l'effet recevait une vitesse infinie.
+- Corrigé : en attendant le tempo de la tablette, il prend le dernier connu.
+- Trouvé grâce aux voyants de la v36.61 et à une capture d'écran du téléphone.
+
 ### v36.62 · 25 novembre · LE SON SORT DE, DRUMS 8 / 16 pas, un seul SAMPLE
 - **LE SON SORT DE** : sur le téléphone 369 ACID, on choisit qui joue.
   - **TABLETTE** : la tablette joue tout, **MODUL compris**. MODUL revient sur la tablette.
