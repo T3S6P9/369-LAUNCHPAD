@@ -13,6 +13,16 @@
 
 ## Novembre 2026
 
+### Vidéo · 26 novembre · 369 LAUNCHPAD de A à Z
+- Une nouvelle vidéo, verticale, construite comme un morceau : **[▶ de A à Z](video/369_LAUNCHPAD_A_a_Z_v36.65.mp4)** (2 min, 130 BPM).
+- Dans l'ordre : la tablette (decks, LOOP, effets), le 963 XY, 369 ACID, MODUL, LE SON SORT DE, puis la page PC.
+- **À chaque DROP, le son saute d'un appareil à l'autre** : la tablette, puis le téléphone, puis le PC.
+- Ce sont les vraies pages de la v36.65, et le son vient du launchpad lui-même.
+
+<p align="center">
+  <a href="video/369_LAUNCHPAD_A_a_Z_v36.65.mp4"><img src="captures/video_A_a_Z_v36.65.jpg" alt="La vidéo 369 LAUNCHPAD de A à Z : le son saute de la tablette au téléphone" width="30%"></a>
+</p>
+
 ### v36.65 · 26 novembre · la page PC tient à l'écran
 - **Chaque onglet prend la plus grande taille qui tient dans la fenêtre** : MODUL, ACID, BASSE, DRUMS et LIVE, en fenêtre comme en plein écran.
 - **LIVE sur 2 colonnes** : les drums au doigt, les PUNCH FX et le transpose à gauche ; ACID JEU et les mouvements à droite.
@@ -319,6 +329,7 @@
 
 ## English (short)
 
+- **Video (26 Nov)**: [369 LAUNCHPAD from A to Z](video/369_LAUNCHPAD_A_a_Z_v36.65.mp4), 2 min, built like a track: on every DROP the sound jumps from the tablet to the phone, then to the PC.
 - **v36.65**: the PC page now fits the screen on every tab (MODUL, ACID, BASS, DRUMS, LIVE), LIVE and the open SAMPLE module on 2 columns, a **FULL SCREEN** button.
 - **v36.64**: a **PC page**. A 4th start button lays the ACID out for a computer screen, mouse first: the MODUL rack large on the left, the open module, sequencer, output and motion lanes on the right, everything on screen and sized to the window; mouse-wheel fine tuning (Shift: faster). **ORDI**: the PC receives the tablet's sound, computes MODUL and plays everything out of its sound card. **One source**: if a second device takes the sound, the last one wins and the other goes back to TABLET on its own.
 - **v36.63**: the phone's engine now starts even with a 303 effect (phaser, flanger) switched on.
