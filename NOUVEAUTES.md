@@ -13,6 +13,14 @@
 
 ## Novembre 2026
 
+### v36.64 · 26 novembre · la page PC
+- **Un bouton PC au démarrage** : la page 369 ACID disposée pour l'écran d'un ordinateur, à la souris.
+  - **MODUL** : le rack en grand à gauche ; le module ouvert, la SÉQ 369, la sortie et les mouvements à droite. Tout tient à l'écran, et la taille suit la fenêtre.
+  - **ACID** : la 303 à gauche, le squelch à droite.
+  - La **molette** règle les barres (Maj : plus vite).
+- **LE SON SORT DE : ORDI** : le PC reçoit le son de la tablette, calcule MODUL et sort tout par sa carte son.
+- **Une seule source** : si un 2e appareil prend le son, le dernier gagne, et l'autre repasse en TABLETTE tout seul. Un téléphone qui se déconnecte ne coupe plus le son.
+
 ### v36.63 · 25 novembre · le téléphone démarre avec les effets de la 303
 - En **TÉLÉPHONE**, le moteur du téléphone ne démarrait pas quand un effet de la 303 (**PHASER** ou **FLANGER**) était allumé : il démarrait avant de connaître le tempo de la tablette, et l'effet recevait une vitesse infinie.
 - Corrigé : en attendant le tempo de la tablette, il prend le dernier connu.
