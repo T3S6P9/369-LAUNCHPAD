@@ -13,6 +13,17 @@
 
 ## Novembre 2026
 
+### v36.65 · 26 novembre · la page PC tient à l'écran
+- **Chaque onglet prend la plus grande taille qui tient dans la fenêtre** : MODUL, ACID, BASSE, DRUMS et LIVE, en fenêtre comme en plein écran.
+- **LIVE sur 2 colonnes** : les drums au doigt, les PUNCH FX et le transpose à gauche ; ACID JEU et les mouvements à droite.
+- **Le SAMPLE ouvert sur 2 colonnes** : le son à gauche, CHARGER LE SON à droite.
+- Les boutons des parties et les onglets de page tiennent sur une seule ligne.
+- **⛶ PLEIN ÉCRAN** en haut à gauche (Échap pour en sortir).
+
+<p align="center">
+  <img src="captures/pc_live_v36.65.jpg" alt="369 LAUNCHPAD v36.65 : la page PC, LIVE sur 2 colonnes" width="88%">
+</p>
+
 ### v36.64 · 26 novembre · la page PC
 - **Un bouton PC au démarrage** : la page 369 ACID disposée pour l'écran d'un ordinateur, à la souris.
   - **MODUL** : le rack en grand à gauche ; le module ouvert, la SÉQ 369, la sortie et les mouvements à droite. Tout tient à l'écran, et la taille suit la fenêtre.
@@ -308,6 +319,7 @@
 
 ## English (short)
 
+- **v36.65**: the PC page now fits the screen on every tab (MODUL, ACID, BASS, DRUMS, LIVE), LIVE and the open SAMPLE module on 2 columns, a **FULL SCREEN** button.
 - **v36.64**: a **PC page**. A 4th start button lays the ACID out for a computer screen, mouse first: the MODUL rack large on the left, the open module, sequencer, output and motion lanes on the right, everything on screen and sized to the window; mouse-wheel fine tuning (Shift: faster). **ORDI**: the PC receives the tablet's sound, computes MODUL and plays everything out of its sound card. **One source**: if a second device takes the sound, the last one wins and the other goes back to TABLET on its own.
 - **v36.63**: the phone's engine now starts even with a 303 effect (phaser, flanger) switched on.
 - **v36.62**: **THE SOUND COMES FROM**: TABLET (the tablet plays everything, MODUL included), PHONE (everything out of the phone's jack) or PHONE ONLY. DRUMS in **8 or 16 steps**. One **SAMPLE** that travels between tablet and phone.

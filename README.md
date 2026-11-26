@@ -82,6 +82,7 @@
 - **MODUL** : le rack en grand à gauche ; le module ouvert, la SÉQ 369, la sortie et les mouvements à droite. Tout tient à l'écran, et la taille suit la fenêtre
 - **ACID** : la 303 à gauche, le squelch et les mouvements à droite
 - À la souris : **glisser** une barre pour régler, la **molette** pour régler fin (Maj : plus vite)
+- **Tout tient à l'écran**, onglet par onglet, et un bouton **⛶ PLEIN ÉCRAN**
 - En **ORDI**, tout sort de la carte son du PC
 
 ## 🔗 JAM : plusieurs appareils, un seul son
