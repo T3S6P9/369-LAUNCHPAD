@@ -21,6 +21,15 @@
 - **LE SON SORT DE : ORDI** : le PC reçoit le son de la tablette, calcule MODUL et sort tout par sa carte son.
 - **Une seule source** : si un 2e appareil prend le son, le dernier gagne, et l'autre repasse en TABLETTE tout seul. Un téléphone qui se déconnecte ne coupe plus le son.
 
+<p align="center">
+  <img src="captures/pc_modul_v36.64.jpg" alt="369 LAUNCHPAD v36.64 : la page PC, onglet MODUL, en ORDI avec les 5 voyants au vert" width="88%">
+</p>
+<p align="center">
+  <img src="captures/demarrage_v36.64.jpg" alt="Le démarrage v36.64 : PAD, TEL, ACID et le nouveau bouton PC" width="30%">
+  &nbsp;
+  <img src="captures/pc_acid_v36.64.jpg" alt="La page PC, onglet ACID : la 303 à gauche, le SQUELCH et les MOUVEMENTS à droite" width="62%">
+</p>
+
 ### v36.63 · 25 novembre · le téléphone démarre avec les effets de la 303
 - En **TÉLÉPHONE**, le moteur du téléphone ne démarrait pas quand un effet de la 303 (**PHASER** ou **FLANGER**) était allumé : il démarrait avant de connaître le tempo de la tablette, et l'effet recevait une vitesse infinie.
 - Corrigé : en attendant le tempo de la tablette, il prend le dernier connu.
@@ -35,6 +44,12 @@
 - Si la tablette rame avec MODUL, sa page MODUL le dit en rouge et conseille de passer en TÉLÉPHONE.
 - **DRUMS : 8 ou 16 pas**. En 8 pas, les cases 9 à 16 sont grisées, mais rien n'est effacé.
 - **SAMPLE : un seul son**. On le charge sur la tablette ou sur le téléphone : il part tout seul vers l'autre appareil.
+
+<p align="center">
+  <img src="captures/son_sort_de_v36.62.jpg" alt="369 ACID v36.62 sur téléphone : LE SON SORT DE TABLETTE, TÉLÉPHONE, TÉL. SEUL" width="40%">
+  &nbsp;
+  <img src="captures/drums_8pas_v36.62.jpg" alt="369 ACID v36.62 : DRUMS en 8 pas, les cases 9 à 16 grisées" width="26%">
+</p>
 
 ### v36.61 · 22 novembre · MODUL ICI montre où ça bloque
 - Quand MODUL ICI ne démarrait pas, le téléphone restait sur « j'attends le son de la tablette » : la vraie erreur était effacée aussitôt.
@@ -293,6 +308,11 @@
 
 ## English (short)
 
+- **v36.64**: a **PC page**. A 4th start button lays the ACID out for a computer screen, mouse first: the MODUL rack large on the left, the open module, sequencer, output and motion lanes on the right, everything on screen and sized to the window; mouse-wheel fine tuning (Shift: faster). **ORDI**: the PC receives the tablet's sound, computes MODUL and plays everything out of its sound card. **One source**: if a second device takes the sound, the last one wins and the other goes back to TABLET on its own.
+- **v36.63**: the phone's engine now starts even with a 303 effect (phaser, flanger) switched on.
+- **v36.62**: **THE SOUND COMES FROM**: TABLET (the tablet plays everything, MODUL included), PHONE (everything out of the phone's jack) or PHONE ONLY. DRUMS in **8 or 16 steps**. One **SAMPLE** that travels between tablet and phone.
+- **v36.57 → v36.61**: MODUL moves to the phone (MODUL HERE), with a soft limiter on the jack, recording from the tablet, a 10th module **SAMPLE** (a file, the mic, or MODUL itself as a sound source), and 5 status lights that show where it stalls.
+- **v36.55 → v36.56**: MODUL stops with the page and restarts on the beat, without false cut-outs.
 - **v36.54**: **MODUL 369**, a modular synth inside the ACID: a 4th page and a 4th part to launch. 9 modules (2 oscillators, noise + sample & hold, filter LP / BP / HP / 303, wavefolder, VCA, envelope, tempo-synced LFO 369, SEQ 369 with 3, 6, 9, 8 or 16 steps). It plays without cables; tap an output then an input to patch (up to 9 cables). LINKS: the 303 and bass notes, the kick and the phone GESTURE can drive it. 9 ready patches, 3 memories, motion recording.
 - **v36.53**: the PAD FX brake column becomes **REV · PSY**: tempo-synced **reverse** (1/8, 1/4, 1 bar, reverse echo) plus four psychedelic effects (**vaporised** granular cloud, floating **plankton** echoes, **fractal** 3-6-9 echoes, octave-up **shimmer** reverb).
 - **v36.52**: **PAD FX**: one button turns the main grid into **64 hold-to-play effects**, like the pad FX on DJ controllers (echo, roll, filter, gate, crush, reverb with freeze and swell, vinyl brake / backspin / pitch, and the 369 FX). Stack 2 or 3 with your fingers, switch the whole grid between 4 variations, lock an effect on, or turn everything off. **STRESS 369**, the "tempo stresser": within each cycle the sound slows down and catches up, landing exactly back on the beat; choose the depth and the shape (smooth, stress, nervous).
